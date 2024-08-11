@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<talendfile:ContextType xmi:version="2.0" xmlns:xmi="http://www.omg.org/XMI" xmlns:talendfile="platform:/resource/org.talend.model/model/TalendFile.xsd" xmi:id="_TVYyIOUSEe2PCOV3PbK9Rw" confirmationNeeded="false" name="Default">
+  <contextParameter xmi:id="_TVYyIeUSEe2PCOV3PbK9Rw" comment="Caminho para os ficheiros csv" name="pasta" prompt="pasta?" promptNeeded="false" repositoryContextId="built-in" type="id_String" value="C:\Users\ricar\OneDrive\Ambiente de Trabalho\Universidade\4º Ano\2º Semestre\DSIA\Ficheiros csv"/>
+</talendfile:ContextType>
